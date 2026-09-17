@@ -1,0 +1,1 @@
+{"name": "Q' Pinta", "short_name": "Q' Pinta", "start_url": "./", "display": "standalone", "background_color": "#f7f4fa", "theme_color": "#6f35a8", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
