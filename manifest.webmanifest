@@ -1,1 +1,1 @@
-{"name": "Q' Pinta", "short_name": "Q' Pinta", "start_url": "./", "display": "standalone", "background_color": "#f7f4fa", "theme_color": "#6f35a8", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
+{"name":"Q' Pinta V5","short_name":"Q' Pinta","start_url":"./","display":"standalone","background_color":"#f7f4fa","theme_color":"#6f35a8","icons":[{"src":"icon-180.png","sizes":"180x180","type":"image/png","purpose":"any maskable"},{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
